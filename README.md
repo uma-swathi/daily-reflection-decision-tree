@@ -14,8 +14,8 @@ The system uses a rule-based decision tree instead of probabilistic AI models to
 2. System asks follow-up questions
 3. Outputs actionable suggestions
 
-   ## Decision Tree Diagram
-![Decision Tree] (Decision_tree.png)
+  ## Decision Tree Diagram
+![Decision Tree](Decision tree.png)
 
 ## Features
 - Simple user interaction
